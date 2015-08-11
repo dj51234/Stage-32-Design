@@ -1,4 +1,4 @@
 Design for Stage 32
 =============================
 
-![Project Preview](preview.png)
+![Project Preview](stage32.png)
